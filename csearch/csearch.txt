@@ -1,0 +1,8 @@
+The csearch program is the simple C program that was used to select a
+mapping of instructions to 6-bit codons for maximum evolvability.  It
+uses a simple 'hill-climbing' search algorithm to find the codon mapping
+with the least statistical probability of a mutation being catastrophic.
+
+The file csearch.out.bz2 contains the results of the run of csearch that
+resulted in the codon mapping used in the Archis project.  (Look at the
+last output block in the file.)
