@@ -6,6 +6,8 @@ Archis
 Archis is a plugin-based artificial life simulator / evolutionary
 programming engine written in Java.
 
+The [original Archis homepage is still online here](http://adam.ierymenko.name/archis/).
+
 It's a bit old. I wrote it many years ago while I was in college to
 prototype ideas for translating concepts from biology to computer
 science. I didn't realize until I'd already gotten an earlier version
